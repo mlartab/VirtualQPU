@@ -108,6 +108,10 @@ WSL Ubuntu on a Dell laptop with 8GB RAM
 
 ---
 
+
+## Benchmark Results Visual
+
+
 ## What is Next
 
 - Custom noise per qubit (not just per chip)
